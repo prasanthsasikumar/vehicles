@@ -5,37 +5,18 @@ weight: 50
 
 # Swainston Garage
 
-Swainston was more than just a garage—it was a home, a workshop, and a gathering place for friends from around the world. This is where we fixed and built many of our vehicles, turning wrenches and sharing dreams under one roof.
+## Fourteen Cars and a Driveway That Could Not Cope
 
-## The Peak
+At its peak there were fourteen cars parked outside the house. Not a collection. More an accumulation, the kind that happens when several people who cannot resist a cheap car happen to live at the same address.
 
-At our peak, we had **14 cars** parked outside the house. The driveway was a testament to our collective passion for automobiles, each vehicle with its own story, its own character, and its own set of challenges that brought us together.
+Swainston was a flat, a workshop and a permanent open invitation. We came from India, Iran and Japan, and most of us were somewhere in the middle of a PhD, which is a period of your life defined by work that never visibly finishes. A thesis chapter can absorb a month and look identical afterwards. A seized bolt takes an afternoon and then it is out, and it stays out, and you can point at it.
 
-## A Global Family
+That is really why the garage mattered. It was the one place where effort turned into a result you could see the same day.
 
-We came from all corners of the world:
-- **India**
-- **Iran**  
-- **Japan**
+The evenings ran long. Somebody would be under a car, somebody else would be holding a light at the wrong angle, and there would be an argument about the correct order of operations that everyone enjoyed too much to settle. It smelled of motor oil and whatever had been cooked earlier. Tools went missing constantly and always turned up in the last car anyone had touched.
 
-Despite our different backgrounds, we were united by our love for cars and the bonds we formed working side by side in the garage.
+We left more or less together, and scattered: Singapore, the USA, Japan, New Zealand.
 
-## The PhD Years
+Nearly every vehicle in this garage passed through that driveway at some point, which means most of these stories are really about that house.
 
-Most of us were doing our PhDs at the time. The garage became our escape, our therapy, and our creative outlet. Between research papers and late-night study sessions, we found solace in the mechanical simplicity of fixing cars and the camaraderie of working together.
-
-## Where We Are Now
-
-We left together, but life took us to different corners of the world:
-- **Singapore**
-- **USA**
-- **Japan**
-- **New Zealand**
-
-Though we're scattered across continents, Swainston will always have a special place in our hearts. It was where we learned, grew, and created memories that transcend distance and time.
-
-## A Place of Fun and Friendship
-
-This place was filled with laughter, late-night conversations, the smell of motor oil, and the satisfaction of a job well done. It was where friendships were forged over shared challenges and victories, both big and small.
-
-Swainston wasn't just a garage—it was home.
+We thought we were fixing cars. We were mostly building the friendships that made the rest of it survivable.

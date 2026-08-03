@@ -3,12 +3,19 @@ title: Mazda MX-5 Parts Car (1999)
 type: garage
 weight: 10
 ---
+
 # Mazda MX-5 Parts Car (1999)
 
 ## Too Cheap to Ignore
 
-This 1999 Mazda MX-5 came to us not as a restoration project, but as a donor car. The price was simply too good to ignore, and it made sense to buy the whole vehicle in order to support the other MX-5 we already had. That is often the logic with parts cars: sometimes the most economical way to keep one good car on the road is to buy another complete one and use it selectively.
+The cheapest way to keep one good car running is often to buy a second, worse one, and this MX-5 was bought entirely to be taken apart.
 
-We removed the components we needed for the main car and treated the rest of the shell with a kind of practical respect. It had a number of damaged or worn pieces, but it still had enough life in it to be amusing in its own rough-edged way. For a while, we would drive it around the neighbourhood in a thoroughly unfinished state, without a bumper and without a number plate, just enjoying the absurdity of it.
+That logic feels wrong until you have priced individual second hand parts. A single panel or a working assembly can cost more on its own than a whole tired car with all of them still attached. So you buy the car, take what you need, and pass on the rest.
 
-Once the useful parts had been taken, we sold the car on as a whole to someone else. It was a short chapter, but a memorable one: part workshop solution, part bargain purchase, and part reminder that some of the funniest motoring memories come from cars that were never meant to be stars in the first place.
+We stripped the pieces the good MX-5 wanted and left the shell in a state best described as informal. No front bumper. No number plate. Still, entirely, a running car.
+
+Which meant that for a few weeks it did laps of the neighbourhood in exactly that condition, purely because it was funny. There is a specific joy in driving something with no dignity left to protect. It went where it was pointed and made everyone who saw it look twice.
+
+Eventually the useful parts were gone and someone else wanted the remainder, so it moved on whole.
+
+It was never going to be the car anyone remembers from the photographs. It is one of the ones I remember best.

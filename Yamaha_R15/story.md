@@ -3,6 +3,15 @@ title: Yamaha R15
 type: motorcycle
 weight: 50
 ---
+
 # Yamaha R15
 
-My first sportbike. After the Apache, stepping onto the R15 felt like a proper step up — fully faired, more rev-happy, and with a riding position that meant business. It was agile in a way that made every corner feel rewarding, and for where I was in my riding at the time, it was exactly the right machine to be on. A lot of good memories made on that bike.
+After the Apache, the R15 felt like being handed a sharper instrument and told to be careful with it.
+
+This was the first fully faired bike I owned, and the change is not really about the bodywork. It is about where the engine wants to live. The Apache was happy anywhere in the rev range. The R15 came alive at the top of it, and asked you to go and find that place deliberately rather than waiting for it to arrive. Ride it lazily and you get very little. Ride it properly and it rewards you every single time.
+
+The riding position committed you to the same idea. Weight forward, elbows in, head down slightly. Ten minutes into a ride you stop noticing it. An hour into a ride you notice it a great deal.
+
+What I remember most is how precise it was through a set of corners. It went exactly where it was pointed and held the line without argument, so smoothness suddenly counted for more than bravery.
+
+It was the right bike at the right point in my riding, which is a harder thing to get right than picking the fastest one.

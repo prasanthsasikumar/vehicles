@@ -3,10 +3,15 @@ title: Subaru Legacy (Clean)
 type: car
 weight: 10
 ---
+
 # Subaru Legacy (Clean)
 
-A rare find: a Legacy recently imported directly from Japan with genuinely low kilometres. The interior was excellent, the paint pristine, and the engine in exactly the kind of condition that JDM cars so often arrive in — well maintained and barely used by local standards.
+Cars imported straight from Japan arrive in a condition that does not quite make sense to anyone used to local examples. This one had genuinely low kilometres, an interior with no wear worth mentioning, and paint that had clearly never spent a winter parked on a street.
 
-The only complication was that the car had been deregistered. Bringing it back into legal use meant working through the re-registration process from scratch, which added some time but ultimately made the car straightforward to sell and easy to price well.
+Japan makes cars expensive to keep and cheap to replace, so a great many of them get driven gently, serviced obsessively, and then sold on while still effectively new. What arrives here is a fifteen year old car that has lived about four years of actual life.
 
-**Result**: One of the better profits on a single car.
+The one complication was paperwork. The car had been deregistered, which in New Zealand means it is not legally a vehicle until you take it back through the process from the beginning. That is time and forms rather than skill, and most buyers will not touch it, which is precisely where the margin lives.
+
+Re registered, cleaned, and priced properly, it sold quickly and well.
+
+The best money I have made on a car came from fixing nothing mechanical at all.

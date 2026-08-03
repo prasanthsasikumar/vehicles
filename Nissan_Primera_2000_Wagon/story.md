@@ -3,14 +3,19 @@ title: Nissan Primera (2018)
 type: car
 weight: 10
 ---
+
 # Nissan Primera (2018)
 
-By this point I had already turned a profit on the Integra and helped a few friends find cheap cars. That small success planted an idea: buy something rough, fix it up, and sell it for a gain. So I picked up this Nissan Primera at a Turners end-of-life auction.
+The Integra had turned a small profit almost by accident. The Primera was the first time I tried to do it deliberately.
 
-Once it arrived, the list of issues turned out to be longer than expected. From working on the Integra and the Legacy, I had already learned that fitting a cheap aftermarket head unit could dramatically lift a car's perceived value. Bluetooth audio had become the single feature every buyer wanted, and Chinese-made head units sourced through Alibaba had brought the cost down to almost nothing. It was one of those market windows that only exists briefly, before every old car gets retrofitted and the advantage disappears.
+I bought it from a Turners end of life auction, which is exactly what the name suggests: the cars that have been given up on. The theory was simple. Buy something rough, fix what is actually wrong with it, sell it to someone who wanted a working car rather than a project.
 
-I worked through the rust patches at the front, teaching myself basic bodywork in the process. With everything sorted and the car nearly ready for a Warrant of Fitness, I was doing a final clean — removing the wiper blades — when my hand slipped and punched straight through the windscreen. A professional replacement would have wiped out any remaining margin. So I found a replacement screen at Pick-A-Part, pulled it out myself, and learned how to fit glass on the job.
+The list of faults was longer than advertised. It always is.
 
-Every car taught something new. This one taught me bodywork, glass fitting, and the importance of being careful during the final clean.
+By then I had learned something worth more than any single repair: a cheap aftermarket head unit changes what a car appears to be worth far more than it costs. Bluetooth audio was the one feature every buyer asked about, and units out of Alibaba had made it nearly free to add. That was a genuine market window, the kind that closes once everybody notices. For a couple of years, forty dollars of stereo was worth several hundred on the asking price.
 
-The car sold at a profit in the end, though the broken windscreen cost time and delayed the sale.
+I taught myself basic bodywork on the rust at the front, which mostly meant learning how much of it there really was. With the car nearly ready for its Warrant, I was doing the final clean, pulling the wiper blades off, when my hand slipped and went straight through the windscreen.
+
+A professional replacement would have eaten the entire margin. So I found a screen at Pick-A-Part, removed it myself, and learned to fit glass because the alternative was losing money.
+
+Every car taught me one new thing. This one taught me three, and two of them were only necessary because of the third.

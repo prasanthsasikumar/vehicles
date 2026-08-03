@@ -3,12 +3,17 @@ title: Daihatsu Mira (1999)
 type: car
 weight: 10
 ---
+
 # Daihatsu Mira (1999)
 
 ## Small Car, Big Utility
 
-The Daihatsu Mira arrived during my time in Wellington, when I was living in Khandallah. It was exactly the sort of car that suited the city: compact, light, easy to park, and happy to thread its way through steep streets and tight corners. On Wellington's hilly roads it was a genuinely entertaining little car, nimble enough to make even ordinary trips feel playful.
+Wellington does not forgive a timid car. The streets in Khandallah climb at angles that feel like a question, and the Mira answered it every morning without ever seeming to try.
 
-What made the Mira especially memorable was how useful it became in day-to-day life. It was exceptionally fuel efficient, asked for very little maintenance, and still had enough room to be put to work. I would fold the seats down, pack in my pressure-washing equipment, and head to nearby houses for small jobs. My landlady kindly introduced me to neighbours who needed their driveways or outdoor areas cleaned, and the Mira became part of that routine, helping me earn some extra pocket money at a time when every bit counted.
+The Mira is the sort of car Japan perfected in the 1990s: tiny, light, and engineered to do far more than its size suggests it should. Nothing about it was fast. It simply weighed so little that the hills stopped mattering, and it turned into corners with a keenness that made a trip to the shops feel like a decision rather than a chore.
 
-That mix of practicality and character is what made the car so special. It could be a city runabout, a work vehicle, and a source of fun all at once. Looking back, it remains one of the most enjoyable small cars I have owned: simple, dependable, economical, and full of personality.
+It also worked for a living. Fold the rear seats down and it swallowed the whole pressure washing kit: the machine, the hoses, the bucket, the coiled extension lead. My landlady introduced me to neighbours who wanted driveways and patios cleaned, and the Mira became part of that routine, carrying the gear up those same hills and paying for itself in pocket money at a time when every bit counted.
+
+It asked for almost nothing back. Fuel lasted an improbably long time. Maintenance was mostly a matter of remembering it existed.
+
+There is a particular kind of engineering that gets its value from restraint rather than excess, and the Mira was full of it. Some cars you drive. The Mira you just pointed uphill and held on.

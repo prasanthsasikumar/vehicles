@@ -3,14 +3,17 @@ title: Honda CRV
 type: car
 weight: 10
 ---
+
 # Honda CRV
 
-We got this car because it was a steal — $350 NZD, complete with fog lamps, a sunroof, and a range of accessories already fitted.
+Three hundred and fifty dollars. Fog lamps, a sunroof, a pile of accessories already fitted, and a head gasket that had already given up.
 
-**Only issue**: blown head gasket.
+We knew exactly what we were buying. A blown head gasket means the seal between the engine block and the cylinder head has failed, so the cooling system and the combustion chambers start leaking into each other. The car still runs. It just runs on borrowed time, and the countdown is measured in how long you can go before the temperature gauge starts climbing.
 
-We knew exactly what we were getting into, so the plan was simple: drive it until it gave up. It never did. For a couple of years we put it through its paces and it passed multiple Warrant of Fitness checks without protest. Eventually the overheating caught up with us — around the thirty-minute mark on any drive, the temperature gauge would climb and we would have to stop.
+The plan was accordingly simple: drive it until it died. It refused to. For two years it did everything we asked, passed multiple Warrant of Fitness checks without argument, and behaved like a car with nothing wrong with it. The only tell was distance. Around the thirty minute mark, on any drive, the needle would begin its slow walk to the right and we would pull over and wait.
 
-That was the cue to attempt a proper repair. I pulled the head, had the surface machined, and fitted new gaskets — an ambitious undertaking given my experience at the time. I did everything by the book, but the new head gasket blew almost immediately after the first start. All that effort, and we were back to square one.
+Eventually I decided to fix it properly. I pulled the head off, had the mating surface machined flat, fitted new gaskets, and torqued everything down in the correct sequence by the book. It blew again almost immediately after the first start.
 
-We sold the car for scrap. It was a genuinely nice machine with a lot of good memories attached, and it taught me something important: some repairs demand more experience than enthusiasm alone can carry.
+That was the end of it. We sold the shell for scrap, which felt harsh for a car that had been so willing for so long.
+
+Enthusiasm gets you as far as taking something apart. Putting it back together correctly is a different skill, and I did not have it yet.
